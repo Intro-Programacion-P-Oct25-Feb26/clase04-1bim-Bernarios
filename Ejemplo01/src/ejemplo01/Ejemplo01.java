@@ -20,7 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
-        nombreEstudiante = "Felipe Elizalde";
+        nombreEstudiante = "Felipe Elizalde"; // Comentario ejemplo
         System.out.println(nombreEstudiante);
     }
     
