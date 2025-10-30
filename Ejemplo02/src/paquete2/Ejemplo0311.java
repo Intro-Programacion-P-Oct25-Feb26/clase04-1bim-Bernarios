@@ -39,7 +39,8 @@ public class Ejemplo0311 {
         direccion = entrada.nextLine();
         
         System.out.printf("Datos del estudiante\nNombre: %s\nApellido: "
-                + "%s\nAño de nacimiento: %d\nCiclo Academico: %d\nDireccio %s\n", 
+                + "%s\nAño de nacimiento: %d\nCiclo Academico: %d\nDireccion: "
+                + "%s\n", 
                 nombre,
                 apellido,
                 nacimiento,
